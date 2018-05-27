@@ -2,16 +2,16 @@ img{
     max-height: 100%;
     max-width: 100%;
     margin: auto;
-    margin-top: 10%;
+    margin-top: 30%;
 }
 #btn{
     background: url("UNO_Logo_PR_Announcement_20160719_4pm_CET_1468855694.png");
     cursor:pointer;
-    height: 150%;
+    height: 100%;
     margin: auto;
 }
 #txt{
     text-align: center;
     font-family: "Comic Sans MS";
-    font-size: 150%;
+    font-size: 100%;
 }
